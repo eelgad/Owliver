@@ -1,0 +1,42 @@
+message,response
+*add*,Addition is the process of calculating the sum of two or more numbers.
+*subtract*,Subtraction is the process of finding the difference between two numbers.
+*multiply*,Multiplication is the process of calculating the product of two or more numbers.
+*divide*,Division is the process of calculating the quotient of two numbers.
+*square*,Squaring a number means multiplying it by itself.
+*sqrt*,"The square root of a number is a value that, when multiplied by itself, gives the original number."
+*power*,Raising a number to a power means multiplying it by itself a specified number of times.
+*factorial*,The factorial of a number is the product of all positive integers less than or equal to that number.
+*modulo*,Modulo operation returns the remainder when one number is divided by another.
+*log*,The logarithm of a number is the power to which a base must be raised to produce that number.
+*sin*,The sine of an angle is the ratio of the length of the opposite side to the hypotenuse in a right-angled triangle.
+*cos*,The cosine of an angle is the ratio of the length of the adjacent side to the hypotenuse in a right-angled triangle.
+*tan*,The tangent of an angle is the ratio of the sine to the cosine of that angle.
+*percent*,Percent is a way of expressing a number as a fraction of 100.
+*area*,"Area is the amount of space inside a shape, calculated based on its dimensions."
+*perimeter*,Perimeter is the total distance around the outside of a shape.
+*volume*,Volume is the amount of space occupied by a 3D object.
+*equation*,"An equation is a statement that two expressions are equal, containing one or more variables."
+*integral*,Integration is a mathematical operation used to find the area under a curve or the accumulation of quantities.
+*derivative*,Derivatives measure how a function changes as its input changes.
+*solve*,Solving an equation means finding the values of variables that make the equation true.
+*factor*,Factoring means breaking down an expression into simpler parts that multiply together.
+*linear equation*,A linear equation is an equation in which the variables appear only to the first power and are not multiplied together.
+*quadratic equation*,A quadratic equation is a second-degree polynomial equation of the form ax² + bx + c = 0.
+*system of equations*,A system of equations is a set of two or more equations that share common variables.
+*matrix*,A matrix is a rectangular array of numbers arranged in rows and columns.
+*determinant*,The determinant is a scalar value that can be computed from the elements of a square matrix.
+*transpose*,Transposing a matrix means swapping its rows and columns.
+*absolute*,"Absolute value refers to the distance a number is from zero on the number line, without considering its sign."
+*angle*,An angle is the figure formed by two rays that share a common endpoint called the vertex.
+*pi*,"Pi is the ratio of the circumference of a circle to its diameter, approximately equal to 3.14159."
+*e*,"E is Euler's number, a fundamental constant in mathematics, approximately equal to 2.71828."
+*series*,A series is the sum of the terms of a sequence.
+*sequence*,"A sequence is an ordered list of numbers, where each term is generated based on a specific rule."
+*combination*,"A combination is a selection of items from a larger set, where the order of selection does not matter."
+*permutation*,"A permutation is an arrangement of items from a larger set, where the order of selection matters."
+*mean*,"The mean is the average of a set of numbers, calculated by summing them and dividing by the number of values."
+*median*,The median is the middle value of a set of numbers when arranged in order.
+*mode*,The mode is the value that appears most frequently in a set of numbers.
+*variance*,"Variance measures the spread of numbers in a dataset, indicating how far each number is from the mean."
+*standard deviation*,"Standard deviation is the square root of variance, representing the dispersion of a dataset."
